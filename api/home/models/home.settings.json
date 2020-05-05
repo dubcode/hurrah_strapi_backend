@@ -1,0 +1,67 @@
+{
+  "kind": "singleType",
+  "collectionName": "homes",
+  "info": {
+    "name": "Home"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "intro_text": {
+      "type": "text"
+    },
+    "portfolio_title": {
+      "type": "string"
+    },
+    "portfolio_excerpt": {
+      "type": "text"
+    },
+    "testimonials_title": {
+      "type": "string"
+    },
+    "testimonials_excerpt": {
+      "type": "text"
+    },
+    "services_title": {
+      "type": "string"
+    },
+    "service_a_title": {
+      "type": "string"
+    },
+    "service_a_excerpt": {
+      "type": "text"
+    },
+    "service_b_title": {
+      "type": "string"
+    },
+    "service_b_excerpt": {
+      "type": "text"
+    },
+    "service_c_title": {
+      "type": "string"
+    },
+    "service_c_text": {
+      "type": "text"
+    },
+    "promise_title": {
+      "type": "string"
+    },
+    "promise_text": {
+      "type": "text"
+    },
+    "banner_title": {
+      "type": "string"
+    },
+    "banner_text": {
+      "type": "text"
+    },
+    "footer_title": {
+      "type": "string"
+    },
+    "footer_text": {
+      "type": "text"
+    }
+  }
+}
