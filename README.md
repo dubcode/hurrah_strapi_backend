@@ -1,3 +1,3 @@
-# Strapi application
+# Strapi Backend
 
-A quick description of your strapi application
+Strapi back end admin for Hurrah
